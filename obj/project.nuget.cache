@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziVHhLa+c10=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\48409676877\\Desktop\\Workspace\\cadastro_clientes\\cadastro_clientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48409676877\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\48409676877\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\48409676877\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\11.0.0\\microsoft.extensions.logging.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\48409676877\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\48409676877\\.nuget\\packages\\npgsql\\11.0.0\\npgsql.11.0.0.nupkg.sha512",
+    "C:\\Users\\48409676877\\.nuget\\packages\\system.diagnostics.diagnosticsource\\11.0.0\\system.diagnostics.diagnosticsource.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
